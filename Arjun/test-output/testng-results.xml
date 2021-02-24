@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18962" started-at="2021-02-13T20:50:26 IST" finished-at="2021-02-13T20:50:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18962" started-at="2021-02-13T20:50:26 IST" finished-at="2021-02-13T20:50:45 IST">
+      <class name="com.pagefactory.ntrp.TC_verfiyLoginPage">
+        <test-method status="PASS" signature="Verifylogi()[pri:0, instance:com.pagefactory.ntrp.TC_verfiyLoginPage@a7e666]" name="Verifylogi" duration-ms="18790" started-at="2021-02-13T20:50:26 IST" finished-at="2021-02-13T20:50:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verifylogi -->
+      </class> <!-- com.pagefactory.ntrp.TC_verfiyLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
